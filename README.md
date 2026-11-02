@@ -23,7 +23,7 @@ I learn by building applications and exploring backend development, distributed 
 - [**E-commerce microservices**](https://github.com/houssybadr/ecom-ms-springboot-app) — A Spring Boot demo with service discovery, an API gateway, and communication between services.
 - [**Fraud detection**](https://github.com/houssybadr/fraud-detection-project) — An experimental project combining Python, Kafka, and Spark for event processing and predictions.
 - [**Supplier management**](https://github.com/houssybadr/supplier-management-flutter) — A supplier management mobile application built with Flutter and Dart.
-- [**Patient management**](https://github.com/houssybadr/PATIENT-MANAGEMENT-APP-SPRING-BOOT) — A patient management application built with Spring Boot.
+- [**Patient management**](https://github.com/houssybadr/patient-management-app-spring-boot) — A patient management application built with Spring Boot.
 - [**EBank microservices**](https://github.com/houssybadr/ebank-microservices-app) — A banking demo with Spring Cloud, Angular, and a chatbot. Copy of [YosaZiege’s project](https://github.com/YosaZiege/ebank-microservices-app).
 
 ## Contact
