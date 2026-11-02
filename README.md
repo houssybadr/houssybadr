@@ -16,12 +16,15 @@ I learn by building applications and exploring backend development, distributed 
 
 ## Tech stack
 
-![Java, Spring, Kafka, Docker, Angular, Dart, Flutter, Python, Maven and Git](https://skillicons.dev/icons?i=java,spring,kafka,docker,angular,dart,flutter,python,maven,git&perline=10)
+![Java, Spring, Kafka, Docker, Angular, Dart, Flutter, Python, FastAPI, PostgreSQL, Maven and Git](https://skillicons.dev/icons?i=java,spring,kafka,docker,angular,dart,flutter,python,fastapi,postgres,maven,git&perline=10)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-5C4EE5?style=for-the-badge)
 
 Also working with Spring Cloud, Spring Data JPA and Apache Spark.
 
 ## Featured projects
 
+- [**Elevator Maintenance RAG**](https://github.com/houssybadr/elevator-maintenance-rag): A retrieval-augmented system that helps technicians find answers in maintenance manuals, built with FastAPI, PostgreSQL and pgvector.
 - [**E-commerce microservices**](https://github.com/houssybadr/ecom-ms-springboot-app): A Spring Boot demo with service discovery, an API gateway, and communication between services.
 - [**Fraud detection**](https://github.com/houssybadr/fraud-detection-project): An experimental project combining Python, Kafka, and Spark for event processing and predictions.
 - [**Supplier management**](https://github.com/houssybadr/supplier-management-flutter): A supplier management mobile application built with Flutter and Dart.
