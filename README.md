@@ -1,32 +1,33 @@
-# Bonjour, je suis Badr Houssy 👋
+# Hi, I'm Badr Houssy 👋
 
-**Développement logiciel** — Java · Spring Boot · Microservices · Docker
+**Software development** — Java · Spring Boot · Microservices · Flutter
 
-J’apprends en construisant des applications et en explorant les architectures distribuées, le développement backend et les infrastructures cloud.
+I learn by building applications and exploring backend development, distributed architectures, mobile development, and cloud infrastructure.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Badr%20Houssy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-houssy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Badr%20Houssy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-houssy/) [![Email](https://img.shields.io/badge/Email-bad.houssy%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bad.houssy@gmail.com)
 
 ---
 
-## À propos
+## About me
 
-- Je m’intéresse au développement d’applications et d’API avec Java et l’écosystème Spring.
-- J’explore les microservices, la communication entre services et le traitement de données en continu.
-- Mes dépôts couvrent aussi l’apprentissage automatique et la détection de fraude.
+- I enjoy building applications and APIs with Java and the Spring ecosystem.
+- I explore microservices, communication between services, and real-time data processing.
+- My repositories also cover mobile development, machine learning, and fraud detection.
 
-## Technologies
+## Tech stack
 
-`Java` · `Spring Boot` · `Spring Cloud` · `Spring Data JPA` · `Apache Kafka` · `Docker` · `Angular` · `Python` · `Apache Spark` · `Maven` · `Git`
+`Java` · `Spring Boot` · `Spring Cloud` · `Spring Data JPA` · `Apache Kafka` · `Docker` · `Angular` · `Dart` · `Flutter` · `Python` · `Apache Spark` · `Maven` · `Git`
 
-## Projets à découvrir
+## Featured projects
 
-- [**E-commerce microservices**](https://github.com/houssybadr/ecom-ms-springboot-app) — Application de démonstration avec Spring Boot, découverte de services, passerelle API et communication entre services.
-- [**Détection de fraude**](https://github.com/houssybadr/fraud_detection_project) — Projet expérimental associant Python, Kafka et Spark pour traiter des événements et produire des prédictions.
-- [**Gestion de patients**](https://github.com/houssybadr/PATIENT-MANAGEMENT-APP-SPRING-BOOT) — Application de gestion réalisée avec Spring Boot.
-- [**EBank microservices**](https://github.com/houssybadr/ebank-microservices-app) — Démonstration bancaire avec Spring Cloud, Angular et un assistant conversationnel. Copie du [projet de YosaZiege](https://github.com/YosaZiege/ebank-microservices-app).
-- [**Kafka & Spring Cloud Stream**](https://github.com/houssybadr/kafka-spring-cloud-stream) — Démonstration de traitement d’événements et d’analyse en continu. Copie du [projet de YosaZiege](https://github.com/YosaZiege/kafka-spring-cloud-stream).
+- [**E-commerce microservices**](https://github.com/houssybadr/ecom-ms-springboot-app) — A Spring Boot demo with service discovery, an API gateway, and communication between services.
+- [**Fraud detection**](https://github.com/houssybadr/fraud-detection-project) — An experimental project combining Python, Kafka, and Spark for event processing and predictions.
+- [**Supplier management**](https://github.com/houssybadr/supplier-management-flutter) — A supplier management mobile application built with Flutter and Dart.
+- [**Patient management**](https://github.com/houssybadr/PATIENT-MANAGEMENT-APP-SPRING-BOOT) — A patient management application built with Spring Boot.
+- [**EBank microservices**](https://github.com/houssybadr/ebank-microservices-app) — A banking demo with Spring Cloud, Angular, and a chatbot. Copy of [YosaZiege’s project](https://github.com/YosaZiege/ebank-microservices-app).
 
-## Me contacter
+## Contact
 
 - [LinkedIn — Badr Houssy](https://www.linkedin.com/in/badr-houssy/)
-- [Mes projets sur GitHub](https://github.com/houssybadr?tab=repositories)
+- [Email — bad.houssy@gmail.com](mailto:bad.houssy@gmail.com)
+- [My GitHub repositories](https://github.com/houssybadr?tab=repositories)
