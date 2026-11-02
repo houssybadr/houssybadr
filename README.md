@@ -4,7 +4,7 @@
 
 I learn by building applications and exploring backend development, distributed architectures, mobile development, and cloud infrastructure.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Badr%20Houssy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-houssy/) [![Email](https://img.shields.io/badge/Email-bad.houssy%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bad.houssy@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20website-2E7D6A?style=flat&logo=googlechrome&logoColor=white)](https://badr-houssy-portfolio.pages.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Badr%20Houssy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-houssy/) [![Email](https://img.shields.io/badge/Email-bad.houssy%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bad.houssy@gmail.com)
 
 ---
 
@@ -33,6 +33,7 @@ Also working with Spring Cloud, Spring Data JPA and Apache Spark.
 
 ## Contact
 
+- [Portfolio: badr-houssy-portfolio.pages.dev](https://badr-houssy-portfolio.pages.dev/)
 - [LinkedIn: Badr Houssy](https://www.linkedin.com/in/badr-houssy/)
 - [Email: bad.houssy@gmail.com](mailto:bad.houssy@gmail.com)
 - [My GitHub repositories](https://github.com/houssybadr?tab=repositories)
